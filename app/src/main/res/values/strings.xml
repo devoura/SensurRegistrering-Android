@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SensurRegistrering</string>
+    <string name="examCode">Eksamenskode</string>
+    <string name="next">Videre</string>
+    <string name="grade">Karakter</string>
+    <string name="candidateID">Kandidatnummer</string>
+    <string name="send">Send</string>
+    <string name="fillOut">Fyll inn!</string>
+    <string-array name="grade">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+</resources>
